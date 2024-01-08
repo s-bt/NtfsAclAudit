@@ -1,9 +1,9 @@
 # A tool to read the ntfs acls of directories and files
 
-I wrote this tool as I could not find one that reads ntfs permissions for files and directories and allow to exclude inherited access rules and returns csv/json/... output.
+I wrote this tool as I could not find one that reads ntfs permissions for files and directories and allows to exclude inherited access rules and returns csv/json/... output.
 I am not a programmer, so the code is pretty ugly and likely not very efficient  ¯\\_(ツ)_/¯
 
-The tool recursively checks acls for the provided directory. As I'm using .Net core, we can make use of [enumerationoptions](https://learn.microsoft.com/en-us/dotnet/api/system.io.enumerationoptions?view=net-7.0) which allows to continue enumerating files and directories on access denied errors.
+The tool recursively checks acls for the provided directory. As I'm using .Net core, we can make use of [enumerationoptions](https://learn.microsoft.com/en-us/dotnet/api/system.io.enumerationoptions?view=net-7.0) which allow to continue enumerating files and directories on access denied errors.
 Inherited access rules, and access rules for the following SIDs are skipped:
 - S-1-5-18 (SYSTEM)
 - S-1-5-32-544 (Administrators)
