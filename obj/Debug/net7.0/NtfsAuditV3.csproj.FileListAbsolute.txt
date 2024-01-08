@@ -1,0 +1,17 @@
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\NtfsAuditV3.exe
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\NtfsAuditV3.deps.json
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\NtfsAuditV3.runtimeconfig.json
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\NtfsAuditV3.dll
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\NtfsAuditV3.pdb
+C:\audit\customers\Keller\NtfsAuditV3\bin\Debug\net7.0\CommandLine.dll
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.csproj.AssemblyReference.cache
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.AssemblyInfoInputs.cache
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.AssemblyInfo.cs
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.csproj.CoreCompileInputs.cache
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.csproj.CopyComplete
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.dll
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\refint\NtfsAuditV3.dll
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.pdb
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\NtfsAuditV3.genruntimeconfig.cache
+C:\audit\customers\Keller\NtfsAuditV3\obj\Debug\net7.0\ref\NtfsAuditV3.dll

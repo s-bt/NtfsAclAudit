@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtfsAuditV3", "NtfsAuditV3.csproj", "{42FC2DF2-5A34-4B8C-AE2A-F576766ECC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FC2DF2-5A34-4B8C-AE2A-F576766ECC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FC2DF2-5A34-4B8C-AE2A-F576766ECC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FC2DF2-5A34-4B8C-AE2A-F576766ECC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FC2DF2-5A34-4B8C-AE2A-F576766ECC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A60F312-C8BF-4AB9-862C-FE4FEF3B560C}
+	EndGlobalSection
+EndGlobal
