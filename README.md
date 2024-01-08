@@ -13,7 +13,10 @@ An output file in CSV-format is being generated.
 ### Usage
 
 ```
-C:\tools\NtfsAuditV3\bin\Release\net7.0\NtfsAuditV3.exe -p C:\Temp\ -o C:\Temp\NtfsAuditV3.txt
+NtfsAuditV3.exe -p <path-to-scan> -o <output-file>
+```
+```
+NtfsAuditV3.exe -p C:\Temp\ -o C:\Temp\NtfsAuditV3.txt
 [*] Scanning 'C:\Temp\' and writing output to 'C:\Temp\NtfsAuditV3.txt'
 ```
 ### Example output file content:
