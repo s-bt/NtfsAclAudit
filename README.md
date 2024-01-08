@@ -1,4 +1,4 @@
-# A tool to read the ntfs acls of directories and files
+# A tool to read ntfs acls of directories and files
 
 I wrote this tool as I could not find one that reads ntfs permissions for files and directories and allows to exclude inherited access rules and returns csv/json/... output.
 I am not a programmer, so the code is pretty ugly and likely not very efficient  ¯\\_(ツ)_/¯
